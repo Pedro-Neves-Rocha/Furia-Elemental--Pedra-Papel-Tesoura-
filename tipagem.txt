@@ -1,0 +1,29 @@
+Jogo 1
+Planta ganha de Agua
+Agua ganha de fogo
+Fogo ganha de planta
+
+Jogo 2
+Inseto ganha de psiquico
+Psiquico ganha de lutador
+Lutador ganha de inseto
+
+Jogo 3
+Fada ganha de sombrio
+Sombrio ganha de venenoso
+Venenoso ganha de Fada
+
+Jogo 4
+Vento ganha de gelo
+Gelo ganha de pedra
+Pedra ganha de vento
+
+Jogo 5
+Terrestre ganha de elétrico
+Elétrico ganha de Dragão
+Dragão ganha de Terrestre
+
+Jogo 6
+Fantasma ganha de normal
+Normal ganha de metal
+Metal ganha de fantasma
